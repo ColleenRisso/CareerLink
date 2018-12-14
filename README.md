@@ -21,3 +21,6 @@ git merge [branch]
 
 git branch -d [branch-name]
     -Deletes the specified branch
+
+
+Wowza, git is cool!
