@@ -14,7 +14,7 @@ git branch
 
 git branch [branch-name]
 -Creates a new branch of the chosen name.
-
+"these are changes"
 git checkout [branch-name]
 -Switches to the specified branch and updates the working directory. Use the `git branch` to see which branches are available if you've forgotten, or add them to the branch.md file for tracking purposes.
 
