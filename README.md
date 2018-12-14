@@ -22,5 +22,5 @@ git merge [branch]
 -Combines the specified branch’s history into the current branch.
 
 git branch -d [branch-name]
+Wowza, git is cool!
 FRank was here
--Deletes the specified branch
